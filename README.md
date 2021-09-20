@@ -1,2 +1,2 @@
 # myGitProjects
-Testing Directory
+Test.
